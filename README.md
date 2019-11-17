@@ -15,9 +15,13 @@ Téléchargez préférablement leur dernière version.
 # Installation
 
   I. Téléchargez le fichier XML de la map voulue.
+  
   II. Glissez-déposez ce fichier dans `/Grand Theft Auto V/menyooStuff/Spooner/`.
+  
   III. Lancez GTA V et ouvrez le menu Menyoo en appuyant sur F8.
+  
   IV. Dans le menu, naviguez dans `Object Spooner` > `Manage saved files` puis descendez tout en bas de la liste.
+  
   V. Sélectionnez le fichier portant le nom du fichier XML, puis activez `Teleport to point` puis `Load placements`.
 
 # Avertissement
